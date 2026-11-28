@@ -1,2 +1,2 @@
 # csci145-finalProject-sudokuSolver
-csci1 145 final project-sodokuSolver
+[CSCI 145 - Final Project - Description.pdf](https://github.com/user-attachments/files/35535571/CSCI.145.-.Final.Project.-.Description.pdf)
